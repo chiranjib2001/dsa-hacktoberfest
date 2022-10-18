@@ -1,3 +1,3 @@
 ﻿# dsa-hacktoberfest
 
-this is repo for DSA.
+this is repo for DSA contribution.
